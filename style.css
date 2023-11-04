@@ -1,0 +1,35 @@
+h1{
+    background-color: black;
+    color:white;
+    margin-left: 0px;;
+    text-align: center;
+    padding: 10px;
+}
+#wrapper{
+ margin-left: -8px;  
+ margin-top: -22px; 
+ margin-right:-10px ;
+ text-align: center;
+}
+
+body{
+    background-color: grey;
+    color: white;
+}
+#guess{
+    font-size: 50px;
+}
+#guessField{
+    padding:10px;
+}
+#subt{
+    padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.change{
+    font-size: 25px;
+}
